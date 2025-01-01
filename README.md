@@ -3,10 +3,6 @@
 </p>
 
 <p align="right">
-   <a href="https://alicefromkr.tistory.com/" 
-    ><img
-      src="https://img.shields.io/badge/TStory%20Blog-0077B5?style=for-the-badge&logo=tistory&logoColor=white&color=C0BAD2"
-  /></a>
     <a href="https://alicenote.space" 
     ><img
       src="https://img.shields.io/badge/Vercel%20Blog-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=B5C2DA"
